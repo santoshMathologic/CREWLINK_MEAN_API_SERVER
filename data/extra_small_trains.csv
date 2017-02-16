@@ -1,0 +1,55 @@
+Train No,Name,Type,Zone,Date From,Date To,From,Dep,To,Arr,Duration,Halts,SU,M,TU,W,TH,F,SA,Class,Distance,Speed,Return
+1081,Dadar - Bhusawal SF ...,SF,CR,13-Nov,27-Nov,DR,21:45,BSL,4:00,6h 15m,5,,,,,,F,,2S SL 3A 2A,432 km,69 km/hr,1082
+1082,Bhusawal - Dadar SF ...,SF,CR,14-Nov,28-Nov,BSL,8:35,DR,16:20,7h 45m,5,,,,,,,S,2S SL 3A 2A,432 km,55 km/hr,1081
+10111,Konkan Kanya Express...,Exp,KR,,,CSTM,23:05,MAO,10:45,11h 40m,18,S,M,T,W,T,F,S,SL 3A 2A 1A,580 km,49 km/hr,10112
+10112,Konkan Kanya Express,Exp,KR,,,MAO,18:00,CSTM,5:50,11h 50m,18,S,M,T,W,T,F,S,SL 3A 2A 1A,580 km,49 km/hr,10111
+10215,Madgaon - Ernakulam ...,SF,KR,,,MAO,21:30,ERS,10:55,13h 25m,11,S,,,,,,,SL 3A 2A 1A,730 km,54 km/hr,10216
+10216,Ernakulam - Madgaon ...,SF,KR,,,ERS,13:50,MAO,3:15,13h 25m,11,,M,,,,,,SL 3A 2A 1A,730 km,54 km/hr,10215
+12123,Deccan Queen,SF,CR,,,CSTM,17:10,PUNE,20:25,3h 15m,3,S,M,T,W,T,F,S,2S CC,192 km,59 km/hr,12124
+12124,Deccan Queen,SF,CR,,,PUNE,7:15,CSTM,10:25,3h 10m,2,S,M,T,W,T,F,S,2S CC,192 km,60 km/hr,12123
+12125,Pragati Express,SF,CR,,,CSTM,16:25,PUNE,19:50,3h 25m,6,S,M,T,W,T,F,S,2S CC,187 km,54 km/hr,12126
+12126,Pragati Express,SF,CR,,,PUNE,7:50,CSTM,11:15,3h 25m,5,S,M,T,W,T,F,S,2S CC,187 km,54 km/hr,12125
+12127,Mumbai CST - Pune In...,SF,CR,,,CSTM,6:40,PUNE,9:57,3h 17m,4,S,M,T,W,T,F,S,2S CC,190 km,57 km/hr,12128
+12128,Pune - Mumbai CST In...,SF,CR,,,PUNE,17:55,CSTM,21:05,3h 10m,3,S,M,T,W,T,F,S,2S CC,190 km,60 km/hr,12127
+12129,Azad Hind Express (P...,SF,CR,,,PUNE,18:25,HWH,3:50,33h 25m,27,S,M,T,W,T,F,S,SL 3A 2A,2021 km,60 km/hr,12130
+12130,Azad Hind Express (P...,SF,CR,,,HWH,21:50,PUNE,6:50,33h 0m,27,S,M,T,W,T,F,S,SL 3A 2A,2021 km,61 km/hr,12129
+12131,Dadar-Sainagar Shird...,SF,CR,,,DR,21:45,SNSI,3:51,6h 6m,6,,M,,W,,,S,SL 3A 2A,332 km,54 km/hr,12132
+12132,Sainagar Shirdi-Dada...,SF,CR,,,SNSI,22:25,DR,4:30,6h 5m,6,S,,T,,T,,,SL 3A 2A,332 km,54 km/hr,12131
+12133,Mumbai CST-Mangalore...,SF,CR,,,CSTM,22:00,MAJN,12:40,14h 40m,12,S,M,T,W,T,F,S,SL 3A 2A,894 km,60 km/hr,12134
+12134,Mangalore Junction -...,SF,CR,,,MAJN,13:55,CSTM,4:25,14h 30m,12,S,M,T,W,T,F,S,SL 3A 2A,894 km,61 km/hr,12133
+12135,Pune - Nagpur SF Exp...,SF,CR,,,PUNE,17:40,NGP,9:25,15h 45m,16,S,,T,,T,,,SL 3A 2A,890 km,56 km/hr,12136
+12136,Nagpur - Pune SF Exp...,SF,CR,,,NGP,18:35,PUNE,9:45,15h 10m,16,,M,,W,,,S,SL 3A 2A,890 km,58 km/hr,12135
+12137,Punjab Mail (PT),SF,CR,,,CSTM,19:40,FZR,5:50,34h 10m,54,S,M,T,W,T,F,S,SL 3A 2A 1A,1931 km,56 km/hr,12138
+12138,Punjab Mail,SF,CR,,,FZR,21:40,CSTM,7:35,33h 55m,52,S,M,T,W,T,F,S,SL 3A 2A 1A,1931 km,56 km/hr,12137
+12139,Sewagram SF Express ...,SF,CR,,,CSTM,15:00,NGP,6:10,15h 10m,31,S,M,T,W,T,F,S,SL 3A 2A,833 km,54 km/hr,12140
+12140,Sewagram SF Express,SF,CR,,,NGP,21:00,CSTM,12:00,15h 0m,31,S,M,T,W,T,F,S,SL 3A 2A,833 km,55 km/hr,12139
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,20 @@
+
+Uploadfile
+
+http://localhost:3000/api/v1/upload/removeUpload?id=57ab9c992d0c405c338bc34d&markDelete=true
+http://localhost:3000/api/v1/upload/createUpload
+
+http://localhost:3000/api/v1/timetables? sortBy=stopNo&trainNo=11014&limit=40&page=1
+
+
+http://localhost:4000/api/v1/trainList?limit=10&order=train_No&page=1&trainName=MANDOVI EXPRESS&trainNo=10104   
+http://localhost:3000/api/v1/gettraindetails?limit=10&order=train_No&page=1&trainName=MANDOVI EXPRESS&trainNo=10104
+
+CUSTOM ROUTES
+
+http://localhost:3000/customRoutes/api/v1/trainstation?limit=150&page=1&order=stopNo&trainNo=&stationCode=MAO
+
+
+CALL BY PARAMS
+http://localhost:3000/api/v1/trainStations/listWithDrivingSections/1/train_No/11014/5/200/200
+eg: reoutes == router.get('/api/v1/trainStations/listWithDrivingSections/:userPlan/:sort/:trainNo/:startDay/:size/:limit',trainstation.listWithDrivingSections);

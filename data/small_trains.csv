@@ -1,0 +1,55 @@
+Train No,Name,Type,Zone,Date From,Date To,From,Dep,To,Arr,Duration,Halts,SU,M,TU,W,TH,F,SA,Class,Distance,Speed,Return
+1081,Dadar - Bhusawal SF ...,SF,CR,13-Nov,27-Nov,DR,21:45,BSL,4:00,6h 15m,5,,,,,,F,,2S SL 3A 2A,432 km,69 km/hr,1082
+1082,Bhusawal - Dadar SF ...,SF,CR,14-Nov,28-Nov,BSL,8:35,DR,16:20,7h 45m,5,,,,,,,S,2S SL 3A 2A,432 km,55 km/hr,1081
+10111,Konkan Kanya Express...,Exp,KR,,,CSTM,23:05,MAO,10:45,11h 40m,18,S,M,T,W,T,F,S,SL 3A 2A 1A,580 km,49 km/hr,10112
+10112,Konkan Kanya Express,Exp,KR,,,MAO,18:00,CSTM,5:50,11h 50m,18,S,M,T,W,T,F,S,SL 3A 2A 1A,580 km,49 km/hr,10111
+10215,Madgaon - Ernakulam ...,SF,KR,,,MAO,21:30,ERS,10:55,13h 25m,11,S,,,,,,,SL 3A 2A 1A,730 km,54 km/hr,10216
+10216,Ernakulam - Madgaon ...,SF,KR,,,ERS,13:50,MAO,3:15,13h 25m,11,,M,,,,,,SL 3A 2A 1A,730 km,54 km/hr,10215
+12123,Deccan Queen,SF,CR,,,CSTM,17:10,PUNE,20:25,3h 15m,3,S,M,T,W,T,F,S,2S CC,192 km,59 km/hr,12124
+12124,Deccan Queen,SF,CR,,,PUNE,7:15,CSTM,10:25,3h 10m,2,S,M,T,W,T,F,S,2S CC,192 km,60 km/hr,12123
+12125,Pragati Express,SF,CR,,,CSTM,16:25,PUNE,19:50,3h 25m,6,S,M,T,W,T,F,S,2S CC,187 km,54 km/hr,12126
+12126,Pragati Express,SF,CR,,,PUNE,7:50,CSTM,11:15,3h 25m,5,S,M,T,W,T,F,S,2S CC,187 km,54 km/hr,12125
+12127,Mumbai CST - Pune In...,SF,CR,,,CSTM,6:40,PUNE,9:57,3h 17m,4,S,M,T,W,T,F,S,2S CC,190 km,57 km/hr,12128
+12128,Pune - Mumbai CST In...,SF,CR,,,PUNE,17:55,CSTM,21:05,3h 10m,3,S,M,T,W,T,F,S,2S CC,190 km,60 km/hr,12127
+12129,Azad Hind Express (P...,SF,CR,,,PUNE,18:25,HWH,3:50,33h 25m,27,S,M,T,W,T,F,S,SL 3A 2A,2021 km,60 km/hr,12130
+12130,Azad Hind Express (P...,SF,CR,,,HWH,21:50,PUNE,6:50,33h 0m,27,S,M,T,W,T,F,S,SL 3A 2A,2021 km,61 km/hr,12129
+12131,Dadar-Sainagar Shird...,SF,CR,,,DR,21:45,SNSI,3:51,6h 6m,6,,M,,W,,,S,SL 3A 2A,332 km,54 km/hr,12132
+12132,Sainagar Shirdi-Dada...,SF,CR,,,SNSI,22:25,DR,4:30,6h 5m,6,S,,T,,T,,,SL 3A 2A,332 km,54 km/hr,12131
+12133,Mumbai CST-Mangalore...,SF,CR,,,CSTM,22:00,MAJN,12:40,14h 40m,12,S,M,T,W,T,F,S,SL 3A 2A,894 km,60 km/hr,12134
+12134,Mangalore Junction -...,SF,CR,,,MAJN,13:55,CSTM,4:25,14h 30m,12,S,M,T,W,T,F,S,SL 3A 2A,894 km,61 km/hr,12133
+12135,Pune - Nagpur SF Exp...,SF,CR,,,PUNE,17:40,NGP,9:25,15h 45m,16,S,,T,,T,,,SL 3A 2A,890 km,56 km/hr,12136
+12136,Nagpur - Pune SF Exp...,SF,CR,,,NGP,18:35,PUNE,9:45,15h 10m,16,,M,,W,,,S,SL 3A 2A,890 km,58 km/hr,12135
+12137,Punjab Mail (PT),SF,CR,,,CSTM,19:40,FZR,5:50,34h 10m,54,S,M,T,W,T,F,S,SL 3A 2A 1A,1931 km,56 km/hr,12138
+12138,Punjab Mail,SF,CR,,,FZR,21:40,CSTM,7:35,33h 55m,52,S,M,T,W,T,F,S,SL 3A 2A 1A,1931 km,56 km/hr,12137
+12139,Sewagram SF Express ...,SF,CR,,,CSTM,15:00,NGP,6:10,15h 10m,31,S,M,T,W,T,F,S,SL 3A 2A,833 km,54 km/hr,12140
+12140,Sewagram SF Express,SF,CR,,,NGP,21:00,CSTM,12:00,15h 0m,31,S,M,T,W,T,F,S,SL 3A 2A,833 km,55 km/hr,12139
+12141,Mumbai LTT - Rajendr...,SF,CR,,,LTT,23:35,RJPB,4:40,29h 5m,12,S,M,T,W,T,F,S,SL 3A 2A 1A,1692 km,58 km/hr,12142
+12142,Rajendra Nagar Patna...,SF,CR,,,RJPB,10:40,LTT,15:15,28h 35m,11,S,M,T,W,T,F,S,SL 3A 2A 1A,1701 km,59 km/hr,12141
+12143,Mumbai LTT - Sultanp...,SF,CR,,,LTT,16:40,SLN,19:55,27h 15m,12,S,,,,,,,SL 3A 2A,1546 km,56 km/hr,12144
+12144,Sultanpur - Mumbai L...,SF,CR,,,SLN,23:55,LTT,4:10,28h 15m,12,,M,,,,,,SL 3A 2A,1546 km,54 km/hr,12143
+12145,Mumbai LTT-Puri SF E...,SF,CR,,,LTT,20:35,PURI,7:40,35h 5m,25,S,,,,,,,SL 3A 2A,1877 km,53 km/hr,12146
+12146,Puri-Mumbai LTT SF E...,SF,CR,,,PURI,21:25,LTT,7:30,34h 5m,25,,,T,,,,,SL 3A 2A,1877 km,55 km/hr,12145
+12147,CSMT Kolhapur - Hazr...,SF,CR,,,KOP,9:05,NZM,17:10,32h 5m,20,,,T,,,,,SL 3A 2A,1919 km,59 km/hr,12148
+12148,Hazrat Nizamuddin - ...,SF,CR,,,NZM,5:55,KOP,16:20,34h 25m,20,,,,,T,,,SL 3A 2A,1919 km,55 km/hr,12147
+12149,Pune-Patna SF Expres...,SF,CR,,,PUNE,20:55,PNBE,4:00,31h 5m,17,S,M,T,W,T,F,S,SL 3A 2A,1780 km,57 km/hr,12150
+12150,Patna-Pune SF Expres...,SF,CR,,,PNBE,22:55,PUNE,5:30,30h 35m,16,S,M,T,W,T,F,S,SL 3A 2A,1780 km,58 km/hr,12149
+12151,Samarasta SF Express...,SF,CR,,,LTT,20:35,HWH,8:25,35h 50m,22,,,,W,T,,,SL 3A 2A 1A,2074 km,57 km/hr,12152
+12152,Samarasta SF Express,SF,CR,,,HWH,21:15,LTT,7:30,34h 15m,21,,,,,,F,S,SL 3A 2A 1A,2074 km,60 km/hr,12151
+12153,Mumbai LTT - Bhopal ...,SF,CR,,,LTT,16:25,HBJ,5:30,13h 5m,8,,,,,T,,,SL 3A 2A,816 km,62 km/hr,12154
+12154,Bhopal Habibganj - M...,SF,CR,,,HBJ,18:20,LTT,7:30,13h 10m,8,,,,,,F,,SL 3A 2A,816 km,61 km/hr,12153
+12155,Shaan-E-Bhopal SF Ex...,SF,WCR,,,HBJ,21:05,NZM,8:00,10h 55m,8,S,M,T,W,T,F,S,SL 3A 2A 1A,701 km,64 km/hr,12156
+12156,Shaan E Bhopal SF Ex...,SF,WCR,,,NZM,20:55,HBJ,7:05,10h 10m,8,S,M,T,W,T,F,S,SL 3A 2A 1A,701 km,68 km/hr,12155
+12157,Pune-Solapur Hutatma...,SF,CR,,,PUNE,18:00,SUR,22:00,4h 0m,2,S,M,T,W,T,F,S,2S CC,263 km,65 km/hr,12158
+12158,Solapur-Pune Hutatma...,SF,CR,,,SUR,6:30,PUNE,10:30,4h 0m,2,S,M,T,W,T,F,S,2S CC,263 km,65 km/hr,12157
+12159,Amravati - Jabalpur ...,SF,WCR,,,AMI,17:45,JBP,6:55,13h 10m,18,S,M,T,W,T,F,S,SL 3A 2A 1A,724 km,54 km/hr,12160
+12160,Jabalpur - Amravati ...,SF,WCR,,,JBP,20:50,AMI,9:50,13h 0m,18,S,M,T,W,T,F,S,SL 3A 2A 1A,724 km,55 km/hr,12159
+12161,Lashkar Superfast Ex...,SF,CR,,,LTT,16:25,AGC,13:00,20h 35m,20,,,,,,F,,SL 3A 2A,1330 km,64 km/hr,12162
+12162,Lashkar Superfast Ex...,SF,CR,,,AGC,23:35,LTT,22:35,23h 0m,19,,,,,,,S,SL 3A 2A,1330 km,57 km/hr,12161
+12163,Dadar Central - Chen...,SF,CR,,,DR,20:30,MS,19:45,23h 15m,22,S,M,T,W,T,F,S,SL 3A 2A 1A,1277 km,54 km/hr,12164
+12164,Chennai Egmore - Dad...,SF,CR,,,MS,6:50,DR,6:00,23h 10m,20,S,M,T,W,T,F,S,SL 3A 2A 1A,1277 km,55 km/hr,12163
+12165,Ratnagiri Express (P...,SF,CR,,,LTT,5:20,BSB,7:05,25h 45m,13,,M,,,T,F,,SL 3A 2A,1477 km,57 km/hr,12166
+12166,Ratnagiri Express,SF,CR,,,BSB,20:20,LTT,21:30,25h 10m,13,,,T,,,F,S,SL 3A 2A,1477 km,58 km/hr,12165
+12167,Mumbai LTT - Varana...,SF,CR,,,LTT,0:35,BSB,3:45,27h 10m,12,S,M,T,W,T,F,S,SL 3A 2A 1A,1468 km,54 km/hr,12168
+12168,Varanasi - Mumbai LT...,SF,CR,,,BSB,10:25,LTT,12:25,26h 0m,11,S,M,T,W,T,F,S,SL 3A 2A 1A,1491 km,57 km/hr,12167
+12169,Pune-Solapur InterCi...,SF,CR,,,PUNE,9:30,SUR,13:30,4h 0m,3,S,M,T,W,T,F,S,2S CC,263 km,65 km/hr,12170
+12170,Solapur-Pune Interci...,SF,CR,,,SUR,14:00,PUNE,18:05,4h 5m,3,S,M,T,W,T,F,S,2S CC,263 km,64 km/hr,12169
