@@ -9,7 +9,7 @@ var swig            = require('swig');
 var cons            = require('consolidate');
 var routes          = require('./routes/index');
 var customRoutes    = require('./customRoutes/customIndex');
-
+var cors            =  require("cors");
 var jsonParser      = bodyParser.json({limit:1024*1024*20, type:'application/json'}); // to avoid payload in node js for increasing size of payload
 var urlencodedParser = bodyParser.urlencoded({ extended:true,limit:1024*1024*20,type:'application/x-www-form-urlencoding' }) // to avoid payload in node js for increasing size of payload
 var app = express();
@@ -70,13 +70,13 @@ function normalizePort(val) {
 }
 
 
-
 // catch 404 and forward to error handler
 app.use(function (req, res, next) {
   var err = new Error('Not Found');
   err.status = 404;
   next(err);
 });
+app.use(cors({origin: 'http://localhost:3000'}));
 
 app.all('/*', function (req, res, next) {
   // CORS headers
